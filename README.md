@@ -19,3 +19,4 @@ Professors have had success asking students questions such as:
 In two complementary categories (e.g. Pasta and Pasta Sauce), what products, if any, are commonly purchased together?
 Special considerations
 Don't forget, you're dealing with Big Data! Large file sizes may take 5+ minutes to download, and importing the millions of rows of data contained within will require specialised software such as R, Microsoft Excel with PowerPivot, Microsoft Access, SAS, SPSS, SQL, etc.
+
