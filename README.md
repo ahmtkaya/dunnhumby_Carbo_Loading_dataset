@@ -1,4 +1,4 @@
-# dunnhumby_Carbo_Loading_dataset: A Relational Database
+# Carbo Loading - Sales Analysis
 ### What’s inside?
 Household level transactions over a period of two years from four categories: Pasta, Pasta Sauce, Syrup, and Pancake Mix
 ### What’s it for?
